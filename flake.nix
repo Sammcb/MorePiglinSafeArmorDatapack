@@ -22,7 +22,7 @@
 			buildDirectory = ".build";
 			datapackName = "more-piglin-safe-armor";
 			version = "1.0.0";
-			minecraftVersion = "1.21.3";
+			minecraftVersion = "1.21.4";
 
 			buildScript = pkgs.writeShellApplication {
 				name = "build";
